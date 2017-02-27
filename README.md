@@ -2,19 +2,19 @@
 The best shooter game ever made ever
 
 ### Project Plan ###
-goal one:
+goal one - target completion date: 13th-20th of march
 - on a street - shoot the guy
 - on a street - two player
 - training zone where you shoot bottles thrown in the air
 - adapt to VR
 
-Both need some modelling work
+Both need some modelling work - Seb can do this
 - breakable bottle
 - animated oponent
 - animated gun
 - some particle effects for shooting the gun
 
-Networking needed too
+Networking needed too - spyro can do this, yeah?
 
 Goal two:
 - better two player
