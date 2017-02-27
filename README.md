@@ -25,3 +25,9 @@ More modelling
 - characters
 - weapon skins
 - different hats (and other things)
+- different weapons - not for pvp duals - probably
+
+Goal three - probably won't get here
+- full story - 5-10 missions maybe an hour to finish (could be more) - think time crisis
+- 2 player story co-op - think time crisis
+- another multiplayer pvp mode - maybe hide behind cover
