@@ -28,6 +28,8 @@ More modelling
 - different hats (and other things)
 - different weapons - not for pvp duals - probably
 
+before starting goal three decide on how to progress - we will have spent a couple of weeks working on this by now and a descision needs to be made as to wheter this project should be continued, is it could enough to release, is it good enough to sell, platforms, occulus touch, psvr, vive, all of these things cost money.
+
 Goal three - probably won't get here
 - full story - 5-10 missions maybe an hour to finish (could be more) - think time crisis
 - 2 player story co-op - think time crisis
