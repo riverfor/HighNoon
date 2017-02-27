@@ -15,6 +15,7 @@ Both need some modelling work - Seb can do this
 - some particle effects for shooting the gun
 
 Networking needed too - spyro can do this, yeah?
+- I saw something called photon unity networking - could be an easy solution (https://www.assetstore.unity3d.com/en/#!/content/1786)
 
 Goal two:
 - better two player
